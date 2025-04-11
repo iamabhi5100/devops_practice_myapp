@@ -1,3 +1,4 @@
+// Backend
 const express = require('express');
 const pool = require('./db');        // our db helper
 require('dotenv').config();
